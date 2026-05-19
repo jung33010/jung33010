@@ -13,9 +13,9 @@
 ---
 
 ## 🧑🏻‍💻 About Me
-- 🔍 **Focus:** LLM 기반의 Agentic AI, RAG(검색 증강 생성), SLM을 활용한 버티컬AI 시스템 구축에 관심이 많습니다.
-- ⚙️ **Interest:** 단순 반복을 대체하는 실용적인 시스템 자동화(System Leverage)와 파이프라인 설계를 연구합니다.
-- 🏆 **Highlight:** LLM 기반 상품 추천 서비스 개발 (SKN_AI_CAMP_14TH 2위)
+- 🔍 **Focus:** LLM 기반의 Agentic AI, RAG(검색 증강 생성) 시스템 구축에 관심이 많습니다.
+- ⚙️ **Interest:** 단순 반복을 대체하는 실용적인 시스템 자동화(System Leverage)와 파이프라인 설계(ComfyUI 등)를 연구합니다.
+- 🏆 **Highlight:** LLM 기반 상품 추천 서비스 개발 (경진대회 2위 수상)
 - 📈 **Goal:** 비즈니스 인사이트를 갖춘 주도적인 AI 엔지니어로 성장하는 것.
 
 ---
@@ -62,9 +62,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
-
----
-</div>
 
 ---
 
